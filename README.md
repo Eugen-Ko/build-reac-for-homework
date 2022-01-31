@@ -2,7 +2,7 @@
 
 1) Скачать zip-архив.
 2) Разархивировать в папку с будущим проектом.
-3) В файле package.json в строке "homepage": "" в кавычки вставить ссылку билд проекта.
+3) В файле package.json в строке "homepage": "" в кавычки вставить ссылку на билд проекта.
    К примеру - "homepage": "https://eugen-ko.github.io/goit-react-hw-01-components",
 4) Запустить npm install для установки пакетов из package.json.
 
